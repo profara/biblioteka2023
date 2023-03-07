@@ -6,7 +6,7 @@ import java.util.List;
 import biblioteka.interfejs.BibliotekaInterfejs;
 
 public class Biblioteka implements BibliotekaInterfejs {
-
+	//Pravi komentar, pravi kod
 	private List<Knjiga> knjige = new ArrayList<>();
 	
 	@Override
